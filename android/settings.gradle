@@ -1,0 +1,3 @@
+rootProject.name = 'EslintDemo'
+
+include ':app'
